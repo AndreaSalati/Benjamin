@@ -1,0 +1,19 @@
+name: pyro
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+ - python
+ - numpy
+ - matplotlib
+ - pip
+ - scikit-learn
+ - ipykernel
+ - pandas
+ - seaborn
+ - anndata
+ - scanpy 
+ - python-igraph 
+ - leidenalg
+ - scipy
+ 
